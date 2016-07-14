@@ -1,14 +1,26 @@
-layout_spectrum: 0.5418904
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.9221267
 color:
   saturation: 0.8752205
-  lightness: 0.7062299
   brandStrength: 1
+  rhythmicContrast: 0.4615809
   brandColors:
     - '#282D27'
     - '#56636C'
     - '#697C8D'
     - '#879AAB'
     - '#C1CDCD'
-  rhythmicContrast: 0.4615809
-typography_spectrum: 0.9221267
+  lightness: 0.7062299
+layout_spectrum: 0.1401718
 name: Andrewfierce
