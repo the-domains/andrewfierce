@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.9221267
 color:
   saturation: 0.8752205
@@ -24,4 +12,17 @@ color:
   lightness: 0.7062299
 layout_spectrum: 0.1401718
 name: Andrewfierce
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 title: 'Cultivating a life of Excellence '
+description: sans ego
